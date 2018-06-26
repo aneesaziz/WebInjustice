@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<musicstore>
+
+
+<album category="Exodus">
+       <artist>Bob Marley</artist>
+	   <year>1979</year>
+</album>	   
+
+<album category="Black Album">
+       <artist>Metallica</artist>
+	   <year>1991</year>
+</album>	   
+
+</musicstore>
